@@ -1,6 +1,4 @@
-Here’s a short and polished description you can use for the **README.md** of this project repository:
 
----
 
 # 📊 Machine Learning Mini Projects
 
@@ -39,5 +37,3 @@ This repository contains a collection of beginner-to-intermediate level machine 
 Created with 💡 by [Abhishek Agrawal](https://github.com/Abhi3886)
 
 ---
-
-Would you like me to generate individual project descriptions or add visuals for each notebook?
